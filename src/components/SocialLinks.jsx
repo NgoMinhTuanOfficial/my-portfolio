@@ -24,7 +24,7 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@ekizr_",
+    subText: "@_kir4z",
     icon: Instagram,
     url: "https://www.instagram.com/_kir4z/",
     color: "#E4405F",
@@ -42,7 +42,7 @@ const socialLinks = [
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@EkiZR",
+    subText: "@NgoMinhTuanOfficial",
     icon: Github,
     url: "https://github.com/NgoMinhTuanOfficial",
     color: "#ffffff",
@@ -51,7 +51,7 @@ const socialLinks = [
   {
     name: "TikTok",
     displayName: "Tiktok",
-    subText: "@eki_zulfar",
+    subText: "@e_kir4z",
     icon: ({ className, ...props }) => (
       <svg
         width="24px"
